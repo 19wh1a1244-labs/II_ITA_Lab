@@ -1,0 +1,33 @@
+cust_name	cust_id
+Ricky	123
+Honey	456
+tomie	546
+Jessi	678
+cust_id	cust_name
+123	Ricky
+456	Honey
+678	Jessi
+546	tomie
+cust_id	cust_name
+123	Ricky
+456	Honey
+678	Jessi
+546	tomie
+cust_id
+123
+456
+678
+546
+cust_id
+123
+678
+cust_id	cust_name
+123	Ricky
+456	Honey
+678	Jessi
+546	tomie
+resid	cust_id	day
+1	123	2021-12-01
+2	456	2021-11-03
+3	678	2021-10-04
+4	546	2021-03-21
